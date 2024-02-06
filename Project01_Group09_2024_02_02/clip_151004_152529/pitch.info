@@ -1,0 +1,22 @@
+
+CamCVideoDelayFrames = 0
+CamA_ROIBig = {555,276},{433,322},{95,268},{157,138},{335,170},{482,194}
+CamA_ROISmall = {471,202},{542,273},{432,315},{110,260},{175,152},{334,183}
+CamA_LumaDiffThreshold = 25
+CamA_MinPixelBlobSize = 2
+CamB_ROIBig = {622,324},{277,353},{123,308},{234,199},{378,191},{589,178}
+CamB_ROISmall = {606,312},{286,347},{140,303},{239,206},{391,204},{576,190}
+CamB_LumaDiffThreshold = 25
+CamB_MinPixelBlobSize = 2
+useGridNumHistory = 20
+pixelDist = 25
+solutionLimitType = 0
+PitchID = 151004_152529
+initTime(sec) = 21520.71
+initPosition(ft) = -0.94, 50.00, 6.36
+initVelocity(ft/sec) = 3.36, -134.36, -6.61
+acceleration(ft/sec^2) = 5.44, 27.90, -26.94
+initSpeed = 91.75
+finalSpeed = 85.30
+estimatedSpin = 533.33
+break(x,y) = 0.25, 0.23
